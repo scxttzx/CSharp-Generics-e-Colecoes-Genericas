@@ -5,19 +5,27 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1Generics", "1Generics\1Generics.csproj", "{2B5B8470-A11E-4254-B3C8-5B96FAFCEE4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Analise1", "3Analise1\3Analise1.csproj", "{2E281F2B-F683-47B9-A7D6-431A24E4C08C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3Analise1", "3Analise1\3Analise1.csproj", "{2E281F2B-F683-47B9-A7D6-431A24E4C08C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Analise2", "4Analise2\4Analise2.csproj", "{A0DEA566-6355-48FC-89C7-3534D53E10DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4Analise2", "4Analise2\4Analise2.csproj", "{A0DEA566-6355-48FC-89C7-3534D53E10DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Analise3", "5Analise3\5Analise3.csproj", "{7220CEEC-2998-4A5A-9ECA-BE37EF2A0B96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5Analise3", "5Analise3\5Analise3.csproj", "{7220CEEC-2998-4A5A-9ECA-BE37EF2A0B96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2Generics", "2Generics\2Generics.csproj", "{6418F35C-E1B2-44DC-A813-581E6955E7D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2Generics", "2Generics\2Generics.csproj", "{6418F35C-E1B2-44DC-A813-581E6955E7D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6ExercicioGenerics", "6ExercicioGenerics\6ExercicioGenerics.csproj", "{BD65B55F-D1C6-4F6E-983E-9A1F1F88209F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6ExercicioGenerics", "6ExercicioGenerics\6ExercicioGenerics.csproj", "{BD65B55F-D1C6-4F6E-983E-9A1F1F88209F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7GetHashCode_Equals", "7GetHashCode_Equals\7GetHashCode_Equals.csproj", "{C037AFA0-9ADE-4C7A-A61E-F7DD4565EA29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7GetHashCode_Equals", "7GetHashCode_Equals\7GetHashCode_Equals.csproj", "{C037AFA0-9ADE-4C7A-A61E-F7DD4565EA29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8ExemploGetHashCode", "8ExemploGetHashCode\8ExemploGetHashCode.csproj", "{49766631-672F-4373-B800-5E2ACC0E8527}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8ExemploGetHashCode", "8ExemploGetHashCode\8ExemploGetHashCode.csproj", "{49766631-672F-4373-B800-5E2ACC0E8527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9Dictionary", "9Dictionary\9Dictionary.csproj", "{017371EF-9773-4FAD-87C2-51CDBF672279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10ExercicioDictionary", "10ExercicioDictionary\10ExercicioDictionary.csproj", "{ACAD2AB3-557D-44D4-849A-CE1ED60714FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11SortedDictionary", "11SortedDictionary\11SortedDictionary.csproj", "{7B3CF936-F061-4E93-885C-CBF06E4045B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12HashSet", "12HashSet\12HashSet.csproj", "{59990E38-475E-42C7-B764-67FC9FF354AD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +65,22 @@ Global
 		{49766631-672F-4373-B800-5E2ACC0E8527}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{49766631-672F-4373-B800-5E2ACC0E8527}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{49766631-672F-4373-B800-5E2ACC0E8527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{017371EF-9773-4FAD-87C2-51CDBF672279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{017371EF-9773-4FAD-87C2-51CDBF672279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{017371EF-9773-4FAD-87C2-51CDBF672279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{017371EF-9773-4FAD-87C2-51CDBF672279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACAD2AB3-557D-44D4-849A-CE1ED60714FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACAD2AB3-557D-44D4-849A-CE1ED60714FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACAD2AB3-557D-44D4-849A-CE1ED60714FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACAD2AB3-557D-44D4-849A-CE1ED60714FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3CF936-F061-4E93-885C-CBF06E4045B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3CF936-F061-4E93-885C-CBF06E4045B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3CF936-F061-4E93-885C-CBF06E4045B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3CF936-F061-4E93-885C-CBF06E4045B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59990E38-475E-42C7-B764-67FC9FF354AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59990E38-475E-42C7-B764-67FC9FF354AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59990E38-475E-42C7-B764-67FC9FF354AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59990E38-475E-42C7-B764-67FC9FF354AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
