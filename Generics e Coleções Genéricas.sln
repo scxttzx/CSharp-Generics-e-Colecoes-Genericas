@@ -19,13 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7GetHashCode_Equals", "7Get
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8ExemploGetHashCode", "8ExemploGetHashCode\8ExemploGetHashCode.csproj", "{49766631-672F-4373-B800-5E2ACC0E8527}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9Dictionary", "9Dictionary\9Dictionary.csproj", "{017371EF-9773-4FAD-87C2-51CDBF672279}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9Dictionary", "9Dictionary\9Dictionary.csproj", "{017371EF-9773-4FAD-87C2-51CDBF672279}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10ExercicioDictionary", "10ExercicioDictionary\10ExercicioDictionary.csproj", "{ACAD2AB3-557D-44D4-849A-CE1ED60714FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10ExercicioDictionary", "10ExercicioDictionary\10ExercicioDictionary.csproj", "{ACAD2AB3-557D-44D4-849A-CE1ED60714FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11SortedDictionary", "11SortedDictionary\11SortedDictionary.csproj", "{7B3CF936-F061-4E93-885C-CBF06E4045B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11SortedDictionary", "11SortedDictionary\11SortedDictionary.csproj", "{7B3CF936-F061-4E93-885C-CBF06E4045B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12HashSet", "12HashSet\12HashSet.csproj", "{59990E38-475E-42C7-B764-67FC9FF354AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12HashSet", "12HashSet\12HashSet.csproj", "{59990E38-475E-42C7-B764-67FC9FF354AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13HashSet_Pt2", "13HashSet_Pt2\13HashSet_Pt2.csproj", "{C48619AF-A033-450A-9854-D86A48988D3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{59990E38-475E-42C7-B764-67FC9FF354AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59990E38-475E-42C7-B764-67FC9FF354AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59990E38-475E-42C7-B764-67FC9FF354AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C48619AF-A033-450A-9854-D86A48988D3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C48619AF-A033-450A-9854-D86A48988D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C48619AF-A033-450A-9854-D86A48988D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C48619AF-A033-450A-9854-D86A48988D3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
