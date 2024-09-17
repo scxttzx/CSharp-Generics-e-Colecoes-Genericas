@@ -27,7 +27,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11SortedDictionary", "11Sor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12HashSet", "12HashSet\12HashSet.csproj", "{59990E38-475E-42C7-B764-67FC9FF354AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13HashSet_Pt2", "13HashSet_Pt2\13HashSet_Pt2.csproj", "{C48619AF-A033-450A-9854-D86A48988D3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13HashSet_Pt2", "13HashSet_Pt2\13HashSet_Pt2.csproj", "{C48619AF-A033-450A-9854-D86A48988D3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14SortedSet", "14SortedSet\14SortedSet.csproj", "{6A788509-6FDA-43A7-981C-76631B807233}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15Stack", "15Stack\15Stack.csproj", "{5B842D10-7220-4DB5-8600-038C9105ADDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +91,14 @@ Global
 		{C48619AF-A033-450A-9854-D86A48988D3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C48619AF-A033-450A-9854-D86A48988D3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C48619AF-A033-450A-9854-D86A48988D3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A788509-6FDA-43A7-981C-76631B807233}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A788509-6FDA-43A7-981C-76631B807233}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A788509-6FDA-43A7-981C-76631B807233}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A788509-6FDA-43A7-981C-76631B807233}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B842D10-7220-4DB5-8600-038C9105ADDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B842D10-7220-4DB5-8600-038C9105ADDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B842D10-7220-4DB5-8600-038C9105ADDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B842D10-7220-4DB5-8600-038C9105ADDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
